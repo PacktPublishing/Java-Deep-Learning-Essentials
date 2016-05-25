@@ -1,6 +1,6 @@
 # Java Deep Learning Essentials
 
-This code is for Java developers who want to know about deep learning algorithms and wish to implement them in applications. Since this book covers the core concepts of and approaches to both machine learning and deep learning, no previous experience in machine learning is required.
+This code is for Java developers who want to know about deep learning algorithms and wish to implement them in applications. Since this code covers the core concepts of and approaches to both machine learning and deep learning, no previous experience in machine learning is required.
 
 Also, we will implement deep learning algorithms with very simple codes, so elementary Java developers will also find this code useful for developing both their Java skills and deep learning skills.
 
