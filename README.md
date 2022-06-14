@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B04779?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Java Deep Learning Essentials
 
 This code is for Java developers who want to know about deep learning algorithms and wish to implement them in applications. Since this code covers the core concepts of and approaches to both machine learning and deep learning, no previous experience in machine learning is required.
